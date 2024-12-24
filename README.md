@@ -1,4 +1,4 @@
-# Loan EMI Calculator
+# Loan Eligibility Calculator
 
 This project is a **Loan EMI Calculator** built using **Laravel** and **Tailwind CSS**. The application allows users to calculate their monthly EMI (Equated Monthly Installment) based on the loan amount, interest rate, and tenure. The project also includes features for checking loan eligibility and user account management.
 
@@ -37,7 +37,7 @@ This project is a **Loan EMI Calculator** built using **Laravel** and **Tailwind
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/loan-emi-calculator.git
+   git clone https://github.com/lam0011/Laravel-project.git
    cd loan-emi-calculator
    ```
 
@@ -118,11 +118,3 @@ Contributions are welcome!
    ```  
 5. Open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For queries or collaboration, feel free to reach out at **your-email@example.com**.  
-Follow me on GitHub: [your-username](https://github.com/your-username).
